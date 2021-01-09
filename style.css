@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+p{
+    font-family: Arial;
+    font-size: 12px;
+    text-align: justify;
+    }
+
+.resaltado{
+    color: red;
+}
+
+pre{
+    font-family: Arial;
+}
+
+hr{
+    color: blue;
+    text-align: center;
+    width: 80%;
+}
